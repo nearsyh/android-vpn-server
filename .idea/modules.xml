@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VpnServices/VpnServices.iml" filepath="$PROJECT_DIR$/VpnServices/VpnServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-vpn-server.iml" filepath="$PROJECT_DIR$/android-vpn-server.iml" />
+    </modules>
+  </component>
+</project>
+

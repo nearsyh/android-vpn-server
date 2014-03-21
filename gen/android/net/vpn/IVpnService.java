@@ -1,6 +1,8 @@
+/*___Generated_by_IDEA___*/
+
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/luojiesi/program/android-vpn-server/src/android/net/vpn/IVpnService.aidl
+ * Original file: /Users/frank/Source/idea_workspace/android-vpn-server/src/android/net/vpn/IVpnService.aidl
  */
 package android.net.vpn;
 /**
@@ -27,13 +29,13 @@ public static android.net.vpn.IVpnService asInterface(android.os.IBinder obj)
 if ((obj==null)) {
 return null;
 }
-android.os.IInterface iin = (android.os.IInterface)obj.queryLocalInterface(DESCRIPTOR);
+android.os.IInterface iin = obj.queryLocalInterface(DESCRIPTOR);
 if (((iin!=null)&&(iin instanceof android.net.vpn.IVpnService))) {
 return ((android.net.vpn.IVpnService)iin);
 }
 return new android.net.vpn.IVpnService.Stub.Proxy(obj);
 }
-public android.os.IBinder asBinder()
+@Override public android.os.IBinder asBinder()
 {
 return this;
 }
@@ -96,7 +98,7 @@ Proxy(android.os.IBinder remote)
 {
 mRemote = remote;
 }
-public android.os.IBinder asBinder()
+@Override public android.os.IBinder asBinder()
 {
 return mRemote;
 }
@@ -110,7 +112,7 @@ return DESCRIPTOR;
      * @param username the username for authentication
      * @param password the corresponding password for authentication
      */
-public boolean connect(android.net.vpn.VpnProfile profile, java.lang.String username, java.lang.String password) throws android.os.RemoteException
+@Override public boolean connect(android.net.vpn.VpnProfile profile, java.lang.String username, java.lang.String password) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -139,7 +141,7 @@ return _result;
 /**
      * Tears down the VPN connection.
      */
-public void disconnect() throws android.os.RemoteException
+@Override public void disconnect() throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
@@ -156,7 +158,7 @@ _data.recycle();
 /**
      * Makes the service broadcast the connectivity state.
      */
-public void checkStatus(android.net.vpn.VpnProfile profile) throws android.os.RemoteException
+@Override public void checkStatus(android.net.vpn.VpnProfile profile) throws android.os.RemoteException
 {
 android.os.Parcel _data = android.os.Parcel.obtain();
 android.os.Parcel _reply = android.os.Parcel.obtain();
