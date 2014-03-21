@@ -2,7 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5c5f700-8e70-4e52-b632-1f25ca0dd5e4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/VpnServices/com/android/server/vpn/DaemonProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/VpnServices/com/android/server/vpn/VpnService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/VpnServices/com/android/server/vpn/VpnService$DaemonHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/VpnServices/com/android/server/vpn/VpnService$NotificationHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/VpnServices/com/android/server/vpn/VpnService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/IVpnService$Stub$Proxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/IVpnService$Stub.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/IVpnService.aidl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/IVpnService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/L2tpIpsecProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/L2tpIpsecPskProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/L2tpProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/PptpProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnProfile$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnProfile.aidl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnProfile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/net/vpn/VpnType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/os/SystemProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/security/Credentials.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/android/security/KeyStore.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/DaemonProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/L2tpIpsecPskService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/L2tpIpsecService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/L2tpService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/PptpService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnConnectingError.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnDaemons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnService$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnService$DaemonHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnService$NotificationHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnServiceBinder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnServiceBinder$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnServiceBinder$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnServiceBinder$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/com/android/server/vpn/VpnServiceBinder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/android-vpn-server/org/zju/luojs/MyVpn.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android-vpn-server.iws" />
@@ -66,28 +112,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VpnServices/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VpnServiceBinder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VpnServices/src/com/android/server/vpn/VpnServiceBinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3240">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,20 +178,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android-vpn-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-vpn-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-vpn-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VpnServices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,24 +475,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VpnServices/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VpnServices/src/com/android/server/vpn/VpnServiceBinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3240">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
